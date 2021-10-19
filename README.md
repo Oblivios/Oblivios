@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=<Oblivios>&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Oblivios&label=PROFILE+VIEWS)
 
 <!--
 **Oblivios/Oblivios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
