@@ -1,7 +1,5 @@
-# Hey! 🕵️
-
 <p align="center">
-    # Hey! 🕵️
+    Hey! 🕵️
 </p>
 
 ## Stats 📈
