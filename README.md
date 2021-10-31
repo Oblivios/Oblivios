@@ -16,8 +16,8 @@
 
 ## Ranks 🌌
 
-<img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="100" height="100"> ![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=Oblivios&badge&colormode=dark_mode&name_only)
+<img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="50" height="50"> ![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=Oblivios&badge&colormode=dark_mode&name_only)
 
-<img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="100" height="100"> ![THMLogo](https://user-images.githubusercontent.com/68814228/139562199-db47b69c-c3c5-40d1-b033-bdd0bd6234d6.png)
+<img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/68814228/139562199-db47b69c-c3c5-40d1-b033-bdd0bd6234d6.png" width="50" height="50">
 
-<img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="100" height="100"> ![RootMeLogo](https://user-images.githubusercontent.com/68814228/139562210-cc9eaf80-d9c4-458b-8b2b-3e38ae6291a9.png)
+<img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/68814228/139562210-cc9eaf80-d9c4-458b-8b2b-3e38ae6291a9.png" width="50" height="50">
