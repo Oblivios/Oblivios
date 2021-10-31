@@ -1,6 +1,4 @@
-<p align="center">
-    Hey! 🕵️
-</p>
+<h1 align="center"><b>Hey! 🕵️</b></h1>
 
 ## Stats 📈
 
