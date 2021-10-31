@@ -22,7 +22,5 @@
 <img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="60" height="60"> <img src="https://tryhackme-badges.s3.amazonaws.com/Obli.png">
 ### ⤳ https://tryhackme.com/p/Obli
 
-![THM](https://tryhackme-badges.s3.amazonaws.com/Obli.png)
-
 <img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="60" height="60"> <img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/e75935e286629f1dd17ec52a8166545f/static_badge_dark.png" height=150/>
 ### ⤳ https://www.root-me.org/Oblivios
