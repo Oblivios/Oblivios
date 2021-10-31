@@ -22,5 +22,5 @@
 <img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="60" height="60"> <img src="https://user-images.githubusercontent.com/68814228/139562199-db47b69c-c3c5-40d1-b033-bdd0bd6234d6.png" width="100" height="60">
 ### ⤳ https://tryhackme.com/p/Obli
 
-<img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="60" height="60"> <img src="https://user-images.githubusercontent.com/68814228/139562210-cc9eaf80-d9c4-458b-8b2b-3e38ae6291a9.png" width="80" height="70">
+<img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="60" height="60"> <img src="https://user-images.githubusercontent.com/68814228/139562210-cc9eaf80-d9c4-458b-8b2b-3e38ae6291a9.png" width="70" height="60">
 ### ⤳ https://www.root-me.org/Oblivios
