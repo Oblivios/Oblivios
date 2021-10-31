@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="60" height="60"> ![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=Oblivios&badge&colormode=dark_mode&name_only)
 ### ⤳ https://www.codewars.com/users/Oblivios
 
-<img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="60" height="60"> <img src="https://user-images.githubusercontent.com/68814228/139562199-db47b69c-c3c5-40d1-b033-bdd0bd6234d6.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="60" height="60"> <img src="https://tryhackme.com/p/Obli">
 ### ⤳ https://tryhackme.com/p/Obli
 
 <img src="https://user-images.githubusercontent.com/68814228/139562044-db70c962-edf9-467b-b87a-c0859b849bd0.png" width="60" height="60"> <img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/e75935e286629f1dd17ec52a8166545f/static_badge_dark.png" height=150/>
