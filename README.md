@@ -1,7 +1,7 @@
 # Hey! 🕵️
 
 <p align="justify">
-  # Hey! 🕵️
+  Hey! 🕵️
 </p>
 
 ## Stats 📈
