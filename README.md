@@ -25,7 +25,7 @@
                 <tr>
                     <td align="center">⤳ TryHackMe:</td>
                     <td align="center"><img src="./logo/tryhackme.png" width=70px height=70px/></td>
-                    <td align="center"><a href="https://tryhackme.com/p/Obli"><script src="https://tryhackme.com/badge/333151" width=300px height=120px></script></a></td>
+                    <td align="center"><a href="https://tryhackme.com/p/Obli"><img src="https://tryhackme-badges.s3.amazonaws.com/Obli.png" alt="TryHackMe"></a></td>
                 </tr>
                 <tr>
                     <td align="center">⤳ RootMe:</td>
