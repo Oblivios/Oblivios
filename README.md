@@ -2,8 +2,6 @@
 
 ## Stats 📈
 
-![Oblivios's Stats](https://github-readme-stats.vercel.app/api?username=Oblivios&show_icons=True&theme=react&hide_border=True&count_private=True)                ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oblivios&show_icons=True&theme=react&hide_border=True&count_private=True)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Oblivios&label=PROFILE+VIEWS)
 
 ## Languages ⛩️
