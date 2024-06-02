@@ -10,7 +10,7 @@
                 <tr>
                     <td align="center">⤳ RootMe:</td>
                     <td align="center"><img src="./logo/rootme.png" width=70px height=70px/></td>
-                    <td align="center"><a href="https://www.root-me.org/Oblivios"><img src="./img/rootme.png" width=300px height=120px/></a></td></td>
+                    <td align="center"><a href="https://www.root-me.org/Oblivios"><img width="350" height="500" src="https://root-me-diff.vercel.app/rm-gh?gstats=show&style=dark&nickname=Oblivios"/></a></td></td>
                 </tr>
                 <tr>
                     <td align="center">⤳ Codewars:</td>
